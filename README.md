@@ -1,5 +1,8 @@
 # mysql-restful-api 的使用示例|example
 
+线上效果：http://172.104.79.155:4000/restful/admin/#/user/list
+mysql-restful-api仓库：https://github.com/postor/mysql-restful-api
+
 ## 步骤 | steps
 
 ### 迁出项目，安装依赖 | git clone && npm install
